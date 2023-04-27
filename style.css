@@ -1,25 +1,62 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-.cabecalho{
 
+.cabecalho {
     background-color: #898989;
     color: rgb(0, 0, 0);
     font-size: 36px;
     display: flex;
     justify-content: baseline;
-
 }
-.imagem-cabecalho{
 
+.imagem-cabecalho {
     width: 8%;
     height: 8%;
-
 }
-.titulo-cabecalho{
 
-margin: 50px 600px;
-display: inline-block;
+.titulo-cabecalho {
+    margin: 50px 600px;
+    display: inline-block;
+    padding: 0 0 0 50px;
+}
 
+.cesb {
+    background-color: #dfdfe0;
+    color: black;
+    font-size: 24px;
+    padding: 160px 120px;
+}
+
+.titulo-cesb {
+    padding: 24px 0;
+}
+
+.novo-milenio {
+    background-color: #bebebe;
+    color: black;
+    font-size: 24px;
+    padding: 160px 120px;
+}
+
+.titulo-nvm {
+    padding: 24px 0;
+}
+
+body {
+    font-family: sans-serif ;
+}
+
+.div-alunos {
+    text-align: center;
+    padding: 24px 0;
+    background-color: #dfdfe0;
+}
+
+.imagem-alunos {
+    width: 360px;
+}
+.titulo-alunos {
+    padding: 16px 0;
 }
